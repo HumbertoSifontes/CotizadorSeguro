@@ -4,7 +4,7 @@ This template provides a minimal setup to get React working in Vite with HMR and
 
 Esta App se desarrollo como Proyecto Final de la cursada FrontEnd de la UNTREF en el marco de Argentina Programa 4.0
 
-[-> Prueba la app <-](https:/cotizadorefuntadev.netlify.app)
+[-> Prueba la app <-](https://cotizadorefuntadev.netlify.app)
 
 <h1>Cotizador de Seguro</h1>
 Este es un proyecto de cotización de seguros de hogar desarrollado en React. Permite a los usuarios calcular el precio estimado de una póliza de seguro de hogar en función de diversos factores, como el tipo de propiedad, la ubicación y los metros cuadrados.
